@@ -60,9 +60,9 @@ For Software:
 
 ### Project Demo
 # Video
+https://drive.google.com/file/d/1gHakdPeBnlW0tfXs1rP74n8u-YBgUlGv/view?usp=drivesdk
 
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
